@@ -277,4 +277,4 @@ if __name__ == "__main__":
     window.show()
 
     # Запуск приложения
-    sys.exit(app.exec())
+    sys.exit(app.exec()) 
