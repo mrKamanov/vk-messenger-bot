@@ -112,4 +112,4 @@ def get_author_label_style():
     color: #7f8c8d;  /* Цвет текста */
     margin-top: 20px;  /* Отступ сверху */
     text-align: center;  /* Выравнивание по центру */
-    """
+    """ 
