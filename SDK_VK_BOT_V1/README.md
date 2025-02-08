@@ -1,4 +1,5 @@
 # VK Messenger Bot
+![image](https://github.com/user-attachments/assets/88ac81d8-5a16-46fa-b276-379d1cb1a052)
 
 ## Описание проекта
 
