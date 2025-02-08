@@ -78,4 +78,4 @@ def send_messages(chat_id, user_data_dir, quotes_path, message_count=10, interva
 
     finally:
         # Закрываем браузер после завершения работы
-        driver.quit()
+        driver.quit() 
