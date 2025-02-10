@@ -6,6 +6,7 @@ Status
 <p align="center">
 <img src="icons/icon.ico" alt="Logo" width="100">
 </p>
+![image](https://github.com/user-attachments/assets/79d61dfe-20e0-4518-97d6-3af6e6857660)
 
 <h3 align="center">Автоматизация отправки сообщений в VK Messenger</h3>
 
@@ -55,8 +56,8 @@ webdriver-manager
 
 Установка
 1. Клонирование репозитория
-git clone https://github.com/your-repo/vk-messenger-automation.git
-cd vk-messenger-automation
+git clone 
+cd SDK_VK_BOT_V3
 
 2. Создание виртуального окружения (опционально)
 python -m venv venv
@@ -87,33 +88,56 @@ python main.py
 
 Структура проекта
 
-vk-messenger-automation/
+SDK_VK_BOT_V3/
+
 ├── main.py                  # Главный файл приложения
+
 ├── script.py                # Логика отправки сообщений
+
 ├── themes.py                # Темы и стили интерфейса
+
 ├── VKMessengerWorker.py     # Многопоточная обработка задач
+
 ├── icons/                   # Папка с иконками
+
 │   ├── folder_icon.png
+
 │   ├── file_icon.png
+
 │   ├── profile_icon.png
+
 │   ├── play_icon.png
+
 │   ├── exit_icon.png
+
 │   └── icon.ico
+
 ├── README.md                # Документация
+
 └── LICENSE                  # Лицензия
 
 
 Конфигурационный файл (config.json)
+
 Приложение автоматически создаёт файл config.json для сохранения настроек. Вы можете предварительно настроить параметры, создав файл вручную:
 
 {
+
+    
     "chat_id": "",
+    
     "user_data_dir": "",
+    
     "quotes_path": "",
+    
     "message_count": 5,
+    
     "interval": 3,
+    
     "profile": "Default",
+    
     "remember": true
+    
 }
 
 Примечания
