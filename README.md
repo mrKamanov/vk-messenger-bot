@@ -3,7 +3,8 @@
 ![GitHub](https://img.shields.io/github/license/mrKamanov/VKMessengerAutomation?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge)
 ![PySide6](https://img.shields.io/badge/PySide6-6.2+-blue.svg?style=for-the-badge)
-![image](https://github.com/user-attachments/assets/7ad6fc45-baf5-42ea-be36-917bc49aeae7)
+![image](https://github.com/user-attachments/assets/26dca1fe-daa7-45ed-98fd-b77606dc5adb)
+
 
 ## 📨 Автоматизация отправки сообщений в VK Messenger  
 
@@ -105,6 +106,7 @@ SDK_VK_BOT_V4/
 │   ├── play_icon.png
 │   ├── exit_icon.png
 │   ├── tray_icon.png
+│   ├── config_icon.png
 │   └── icon.ico
 ├── config.json             # Конфигурационный файл
 ├── README.md               # Документация
