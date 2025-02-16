@@ -1,0 +1,3 @@
+PySide6
+selenium
+webdriver_manager
